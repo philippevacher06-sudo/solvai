@@ -1,0 +1,6 @@
+streamlit==1.58.0
+openai==2.44.0
+anthropic==0.112.0
+python-dotenv==1.2.2
+pdfplumber==0.11.8
+Pillow==12.2.0

@@ -1,12 +1,12 @@
 streamlit==1.58.0
-google-generativeai==0.8.5
-faster-whisper==1.1.1
+google-generativeai==0.8.6
+faster-whisper==1.2.1
 python-dotenv==1.2.2
-pdfplumber==0.11.8
+pdfplumber==0.11.10
 Pillow==12.2.0
 streamlit==1.58.0
 openai==2.44.0
-anthropic==0.112.0
+anthropic==0.113.0
 python-dotenv==1.2.2
-pdfplumber==0.11.8
+pdfplumber==0.11.10
 Pillow==12.2.0
